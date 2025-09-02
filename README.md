@@ -71,8 +71,15 @@ We may update this Privacy Policy occasionally.
 Updates will be posted at the link below.
 
 ---
+## 8. Advertising
 
-## 8. Contact Us
+We use Google AdMob to display advertisements in our App.  
+AdMob may collect and process device information (such as device identifiers, ad interactions, and usage data) to provide personalized and non-personalized ads.  
+
+For more details on how Google uses data, please visit:  
+[Google’s Privacy & Terms](https://policies.google.com/technologies/ads).
+
+## 9. Contact Us
 
 If you have questions or concerns about this Privacy Policy, please contact us:
 
@@ -80,3 +87,12 @@ If you have questions or concerns about this Privacy Policy, please contact us:
 🌐 [https://iqbattle.app/](https://iqbattle.app/)
 
 ---
+
+## 🎵 Attributions & Credits
+
+- **"Bright Beginnings (Uplifting Piano and Energetic Drums)"**  
+  by [LolaMoore](https://freesound.org/people/LolaMoore/sounds/761677/) from Freesound.org  
+  Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+- **Additional sounds and music**  
+  provided by [Pixabay](https://pixabay.com) under the [Pixabay License](https://pixabay.com/service/license/)  
